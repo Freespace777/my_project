@@ -6,7 +6,7 @@
 <!-- eraser-additional-content -->
 ## Diagrams
 <!-- eraser-additional-files -->
-<a href="/Diagramma Otus Basic-Vagrant Server Architecture-1.eraserdiagram" data-element-id="j68Hp9ja1nsGTucWpNv86"><img src="/.eraser/GIYesymIdCWgD9Bc3huL___AJp4CfEuJIVeRgXKJI4ecU1fvzS2___---diagram----644fa53c6503656e84790aebb4556af4-Vagrant-Server-Architecture.png" alt="" data-element-id="j68Hp9ja1nsGTucWpNv86" /></a>
+<a href="/Diagramma Otus Basic-Vagrant Server Architecture-1.eraserdiagram" data-element-id="aq4m9SEW3cmoZlt8hL0xO"><img src="/.eraser/GIYesymIdCWgD9Bc3huL___AJp4CfEuJIVeRgXKJI4ecU1fvzS2___---diagram----644fa53c6503656e84790aebb4556af4-Vagrant-Server-Architecture.png" alt="" data-element-id="aq4m9SEW3cmoZlt8hL0xO" /></a>
 <!-- end-eraser-additional-files -->
 <!-- end-eraser-additional-content -->
 <!--- Eraser file: https://app.eraser.io/workspace/GIYesymIdCWgD9Bc3huL --->
