@@ -2,6 +2,10 @@
 
 Схема проекта Otus Basic
 
+[﻿View on canvas](https://app.eraser.io/workspace/GIYesymIdCWgD9Bc3huL?elements=4dBa-7ChCA_uj3QFr-sDCQ) 
+
+
+
 
 <!-- eraser-additional-content -->
 ## Diagrams
