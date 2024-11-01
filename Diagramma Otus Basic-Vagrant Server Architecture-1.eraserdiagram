@@ -1,0 +1,34 @@
+cloud-architecture-diagram
+
+direction right
+title Vagrant Server Architecture
+
+Frontend Web Server [color: blue, icon: server] {
+  Web Server [icon: nginx, label: "Nginx"]
+}
+
+Backend [color: green, icon: server] {
+  Apache Backend 1 [icon: apache, label: "Apache Backend 1"]
+  Apache Backend 2 [icon: apache, label: "Apache Backend 2"]
+}
+
+Database [color: orange, icon: database] {
+  MySQL Source [icon: mysql, label: "Source"]
+  MySQL Replica [icon: mysql, label: "Replica"]
+}
+
+Monitoring and ELK [color: red, icon: monitor] {
+  Monitoring and Logging [icon: grafana]
+}
+
+// Connections
+MySQL Source > MySQL Replica: replication
+Backend > MySQL Source
+Backend > MySQL Source
+Web Server < Monitoring and Logging
+MySQL Source < Monitoring and Logging
+MySQL Replica < Monitoring and Logging
+Backend < Monitoring and Logging
+Frontend Web Server > Backend
+
+
